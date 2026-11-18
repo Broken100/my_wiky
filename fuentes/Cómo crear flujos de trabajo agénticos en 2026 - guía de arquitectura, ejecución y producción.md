@@ -1,10 +1,10 @@
 ---
 title: "Cómo crear flujos de trabajo agénticos en 2026: guía de arquitectura, ejecución y producción"
-source:
-author:
+source: "https://share.gemini.google/xc2O63zQoBt3"
+author: "Gemini (respuesta generada; modelo y fecha del diálogo no constan)"
 published:
 created: 2026-11-18
-description: "Guía de arquitectura, ejecución y producción de sistemas agénticos en 2026. Original recibido como texto pegado (pasted-text.txt) en bloque continuo sin URL de origen ni saltos de línea."
+description: "Guía de arquitectura, ejecución y producción de sistemas agénticos en 2026. Original recibido en bloque continuo sin saltos de línea; verificado contra conversación compartida de Gemini."
 tags:
   - "clippings"
 ---
