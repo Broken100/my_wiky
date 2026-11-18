@@ -33,4 +33,4 @@ Procesada [la guía de flujos agénticos](<fuentes/Cómo crear flujos de trabajo
 
 ## [2026-11-18] query | Inventario general de la bóveda
 
-Consulta de solo lectura reportada por consulta sobre el contenido actual de la bóveda, revisando el [índice](indice.md), uentes/ (3 originales procesadas y uentes/adjuntos/ vacía), wiki/fuentes/ (3 resúmenes) y wiki/temas/ (3 temas). No se crearon ni modificaron páginas.
+Consulta de solo lectura reportada por `consulta` sobre el contenido actual de la bóveda, revisando el [índice](indice.md), `fuentes/` (3 originales procesadas y `fuentes/adjuntos/` vacía), `wiki/fuentes/` (3 resúmenes) y `wiki/temas/` (3 temas). No se crearon ni modificaron páginas.
