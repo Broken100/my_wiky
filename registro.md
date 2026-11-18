@@ -30,3 +30,7 @@ Procesada [la publicación de Yarad](<fuentes/Yarad (@Yarad_ai) en X.md>): cread
 ## [2026-11-18] ingest | Flujos de trabajo agénticos en producción
 
 Procesada [la guía de flujos agénticos](<fuentes/Cómo crear flujos de trabajo agénticos en 2026 - guía de arquitectura, ejecución y producción.md>): creados el [resumen](wiki/fuentes/flujos-agentes-produccion-2026.md) y el [tema](wiki/temas/flujos-de-trabajo-agenticos.md), y añadido contexto cruzado en el [tema de plugins](wiki/temas/plugins-para-trabajo-de-conocimiento.md). El original llegó como texto pegado en un bloque único, sin autor ni fecha, y con las tablas aplanadas por el copiado; Luis aportó después el enlace de la conversación compartida de Gemini, que se verificó como origen (el texto coincide y cierra en la misma sección) y sirvió para comprobar los encabezados y la primera columna de las siete tablas reconstruidas en el resumen. Las cifras, licencias, precios y benchmarks son afirmaciones de la fuente y no se verificaron de forma independiente.
+
+## [2026-11-18] query | Inventario general de la bóveda
+
+Consulta de solo lectura reportada por consulta sobre el contenido actual de la bóveda, revisando el [índice](indice.md), uentes/ (3 originales procesadas y uentes/adjuntos/ vacía), wiki/fuentes/ (3 resúmenes) y wiki/temas/ (3 temas). No se crearon ni modificaron páginas.
