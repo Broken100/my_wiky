@@ -4,7 +4,6 @@ Punto de entrada para navegar la biblioteca. Cada página procesada se añade aq
 
 ## Fuentes
 
-- [Biblioteca: cafeterías de Otavalo](wiki/fuentes/biblioteca-cafeterias-otavalo.md): resumen y limitaciones de una respuesta de Gemini sobre reseñas de cafeterías.
 
 - [Plugins para trabajo de conocimiento: Yarad](wiki/fuentes/plugins-trabajo-conocimiento-yarad.md): resumen de una publicación sobre plugins de Claude Code y sus limitaciones.
 
@@ -12,7 +11,6 @@ Punto de entrada para navegar la biblioteca. Cada página procesada se añade aq
 
 ## Temas
 
-- [Cafeterías de Otavalo](wiki/temas/cafeterias-de-otavalo.md): inventario de puntuaciones y observaciones atribuidas a la fuente, pendientes de verificación.
 
 - [Plugins para trabajo de conocimiento](wiki/temas/plugins-para-trabajo-de-conocimiento.md): usos y adaptación de plugins según la fuente.
 

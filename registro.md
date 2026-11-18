@@ -34,3 +34,7 @@ Procesada [la guía de flujos agénticos](<fuentes/Cómo crear flujos de trabajo
 ## [2026-11-18] query | Inventario general de la bóveda
 
 Consulta de solo lectura reportada por `consulta` sobre el contenido actual de la bóveda, revisando el [índice](indice.md), `fuentes/` (3 originales procesadas y `fuentes/adjuntos/` vacía), `wiki/fuentes/` (3 resúmenes) y `wiki/temas/` (3 temas). No se crearon ni modificaron páginas.
+
+## [2026-11-18] lint | Eliminación de Cafeterías de Otavalo
+
+Se eliminaron los 3 archivos de Cafeterías de Otavalo (`fuentes/Biblioteca.md`, `wiki/fuentes/biblioteca-cafeterias-otavalo.md` y `wiki/temas/cafeterias-de-otavalo.md`) a pedido y confirmación explícita de Luis, y se retiraron sus dos entradas en [indice.md](indice.md).
