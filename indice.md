@@ -8,11 +8,15 @@ Punto de entrada para navegar la biblioteca. Cada página procesada se añade aq
 
 - [Plugins para trabajo de conocimiento: Yarad](wiki/fuentes/plugins-trabajo-conocimiento-yarad.md): resumen de una publicación sobre plugins de Claude Code y sus limitaciones.
 
+- [Flujos de trabajo agénticos en producción (2026)](wiki/fuentes/flujos-agentes-produccion-2026.md): resumen de una guía de arquitectura, ejecución y producción de sistemas agénticos; sus cifras quedan atribuidas a la fuente.
+
 ## Temas
 
 - [Cafeterías de Otavalo](wiki/temas/cafeterias-de-otavalo.md): inventario de puntuaciones y observaciones atribuidas a la fuente, pendientes de verificación.
 
 - [Plugins para trabajo de conocimiento](wiki/temas/plugins-para-trabajo-de-conocimiento.md): usos y adaptación de plugins según la fuente.
+
+- [Flujos de trabajo agénticos](wiki/temas/flujos-de-trabajo-agenticos.md): decisiones de topología, protocolos, memoria, coste, seguridad y evaluación para llevar agentes a producción.
 
 ## Biblioteca
 
