@@ -54,3 +54,22 @@ Procesada [la transcripción del curso](<fuentes/HERMES 2026 Curso COMPLETO en E
 ## [2026-11-19] lint | Revisión de enlaces y nombre de archivo largo
 
 Comprobados los 62 enlaces relativos de la bóveda: los cuatro que no resuelven están en este [registro](registro.md) y apuntan a las páginas de Cafeterías de Otavalo eliminadas el 2026-11-18, de modo que se conservan como historial. Detectado además que el original de Scrapling tiene un nombre de 241 caracteres y una ruta absoluta de 281, por encima del límite de 260 de Windows: Obsidian lo abre, pero algunas herramientas no. No se renombró el original; queda pendiente de decisión de Luis.
+
+## [2026-11-19] lint | Auditoría de salud de la biblioteca (solo lectura)
+
+Alcance: 21 documentos .md (5 en fuentes/, 4 en wiki/fuentes/, 4 en wiki/temas/, 1 en wiki/proyectos-2026/, 2 stubs en wiki/, 4 base en raíz) y 74 enlaces internos comprobados con verificación de rutas largas. fuentes/adjuntos/ no existe todavía. No se modificó ningún archivo de la bóveda.
+
+Verificado:
+- 70 de 74 enlaces resuelven. Los 4 rotos están en registro.md (líneas 20 y 24) y apuntan a las páginas de Cafeterías de Otavalo eliminadas el 2026-11-18; se conservan como historial.
+- Las 4 fuentes originales de fuentes/ tienen al menos una página de wiki que las enlaza; ninguna fuente sin procesar.
+- indice.md lista las 4 fuentes, 4 temas y la página de proyecto; no faltan entradas.
+- Ninguna ruta usa codificación %20.
+- Scrapling: la ruta completa mide 281 caracteres y el nombre 239 caracteres (código Unicode). El asiento del 2026-11-19 anterior dice 241; la diferencia parece ser el método de conteo (no verificado). El problema de ruta larga sigue pendiente de decisión de Luis.
+- El asiento lint anterior (2026-11-19) indica 62 enlaces comprobados; la comprobación corregida da 74. Las 12 diferencias eran enlaces con espacios entre <>, que la primera versión del verificador no leía.
+
+Sugerencias (no verificadas como problemas):
+- wiki/index.md y wiki/log.md son stubs sin entrada en indice.md; podrían retirarse o no.
+- Inicio.md menciona "Pide a Codex"; revisar si sigue siendo la herramienta prevista.
+- Crear fuentes/adjuntos/ si se quiere que exista antes del primer adjunto de Obsidian.
+
+No se pudo comprobar: el contenido factual de las fuentes y los resúmenes frente a sus originales (no era el alcance pedido de enlaces, y no se usó la web).
