@@ -16,6 +16,10 @@ Punto de entrada para navegar la biblioteca. Cada página procesada se añade aq
 
 - [Flujos de trabajo agénticos](wiki/temas/flujos-de-trabajo-agenticos.md): decisiones de topología, protocolos, memoria, coste, seguridad y evaluación para llevar agentes a producción.
 
+## Proyectos 2026
+
+- [Cómo configurar Hermes](wiki/proyectos-2026/como-configurar-hermes.md): guía basada en la transcripción del curso y sus limitaciones.
+
 ## Biblioteca
 
 - [Inicio](Inicio.md): portada y guía rápida.

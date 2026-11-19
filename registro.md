@@ -38,3 +38,7 @@ Consulta de solo lectura reportada por `consulta` sobre el contenido actual de l
 ## [2026-11-18] lint | Eliminación de Cafeterías de Otavalo
 
 Se eliminaron los 3 archivos de Cafeterías de Otavalo (`fuentes/Biblioteca.md`, `wiki/fuentes/biblioteca-cafeterias-otavalo.md` y `wiki/temas/cafeterias-de-otavalo.md`) a pedido y confirmación explícita de Luis, y se retiraron sus dos entradas en [indice.md](indice.md).
+
+## [2026-11-18] query | Cómo configurar Hermes
+
+Se creó la [guía de configuración](wiki/proyectos-2026/como-configurar-hermes.md) a partir del [curso guardado](<fuentes/HERMES 2026 Curso COMPLETO en Español (Agente IA).md>). La transcripción no incluye el comando de instalación ni todos los detalles visuales; no se consultaron fuentes externas.
