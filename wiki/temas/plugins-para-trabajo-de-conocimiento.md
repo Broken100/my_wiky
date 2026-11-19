@@ -1,6 +1,6 @@
 # Plugins para trabajo de conocimiento
 
-Los plugins pueden organizar instrucciones especializadas, comandos reutilizables y conectores para apoyar tareas profesionales. Esta descripción procede de una publicación de Yarad sobre Claude Code, no de una inspección del repositorio. [Resumen de la fuente](../fuentes/plugins-trabajo-conocimiento-yarad.md)
+Los plugins pueden organizar instrucciones especializadas, comandos reutilizables y conectores para apoyar tareas profesionales. La publicación de Yarad es la fuente de esta síntesis; el [README del repositorio de Anthropic](https://github.com/anthropics/knowledge-work-plugins) describe además skills, conectores, comandos y subagentes. No se probó su funcionamiento. [Auditoría](../auditorias/verificacion-fuentes-2026-11-19.md)
 
 ## Áreas y adaptación
 
@@ -12,4 +12,4 @@ Otra fuente de la biblioteca sitúa los skills, los conectores y los servidores 
 
 ## Vacíos
 
-La fuente no enumera los 11 plugins que menciona ni demuestra su funcionamiento, requisitos o eficacia. El repositorio enlazado no se ha revisado. [Resumen de la fuente](../fuentes/plugins-trabajo-conocimiento-yarad.md)
+La publicación no enumera los 11 plugins que menciona ni demuestra su funcionamiento, requisitos o eficacia. El [README del repositorio](https://github.com/anthropics/knowledge-work-plugins) declara 11, pero no se ejecutaron ni evaluaron. [Auditoría](../auditorias/verificacion-fuentes-2026-11-19.md)

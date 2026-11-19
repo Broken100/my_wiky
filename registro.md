@@ -73,3 +73,15 @@ Sugerencias (no verificadas como problemas):
 - Crear fuentes/adjuntos/ si se quiere que exista antes del primer adjunto de Obsidian.
 
 No se pudo comprobar: el contenido factual de las fuentes y los resúmenes frente a sus originales (no era el alcance pedido de enlaces, y no se usó la web).
+
+## [2026-11-19] lint | Verificación parcial de fuentes
+
+Se registraron los resultados y límites de acceso en la [auditoría](wiki/auditorias/verificacion-fuentes-2026-11-19.md) y se creó el [procedimiento manual de verificación](wiki/procedimientos/verificacion-de-fuentes.md). Se actualizaron los resúmenes de [Scrapling](wiki/fuentes/scrapling-framework-raspado-web.md), [plugins](wiki/fuentes/plugins-trabajo-conocimiento-yarad.md), [flujos agénticos](wiki/fuentes/flujos-agentes-produccion-2026.md) y [curso de Hermes](wiki/fuentes/hermes-2026-curso-completo.md), y los temas de [plugins](wiki/temas/plugins-para-trabajo-de-conocimiento.md) y [flujos agénticos](wiki/temas/flujos-de-trabajo-agenticos.md). Se corrigió la interpretación del 22% sobre controles MCP; la predicción de Gartner solo se contrastó con un fragmento de búsqueda. No se verificaron íntegramente las fuentes ni se alteraron originales.
+
+## [2026-11-19] ingest | Avance del proyecto de placas NFC y QR
+
+Se guardó la [síntesis de la sesión](<fuentes/adjuntos/proyecto-placas-nfc-qr-avance-2026-11-19.md>) y se crearon el [resumen](wiki/fuentes/proyecto-placas-nfc-qr-avance-2026-11-19.md) y el [tema de proyecto](wiki/temas/proyecto-placas-nfc-qr-resenas.md). La síntesis distingue el prototipo local verificado parcialmente de las funciones pendientes y de las hipótesis comerciales; no es una auditoría de seguridad.
+
+## [2026-11-19] lint | Auditoría comparativa de entornos (OpenBot vs. Hermes)
+
+Publicada la [auditoría comparativa de entornos](wiki/auditorias/comparativa-entornos-openbot-vs-hermes-2026-11-19.md) y actualizada su entrada en [indice.md](indice.md). Se revisaron los 13 cambios locales previos del entorno Hermes (verificación puntual de fuentes y avance del proyecto NFC/QR): 156 enlaces internos comprobados en 27 archivos `.md` con 0 enlaces rotos nuevos (se mantienen los 4 enlaces históricos de Cafeterías de Otavalo en este registro) y originales previos en `fuentes/` sin cambios.

@@ -1,12 +1,12 @@
 # Flujos de trabajo agénticos
 
-Síntesis de la [guía de flujos agénticos en producción](../fuentes/flujos-agentes-produccion-2026.md). Todo lo que sigue procede de esa fuente, salvo la sección final, que está marcada como interpretación. Las cifras, fechas y nombres de productos son afirmaciones de la fuente y no se verificaron de forma independiente.
+Síntesis de la [guía de flujos agénticos en producción](../fuentes/flujos-agentes-produccion-2026.md). Lo que sigue procede de esa fuente salvo la interpretación final y la comprobación limitada de Postman y Gartner señalada abajo. Las restantes cifras, fechas y nombres de productos no se verificaron de forma independiente. [Auditoría](../auditorias/verificacion-fuentes-2026-11-19.md).
 
 ## Idea que organiza todo lo demás
 
 Un agente en producción es un modelo (razonamiento) más un arnés (orquestación, herramientas, memoria, ejecución durable, aislamiento, observabilidad y seguridad). El resultado depende más del arnés y de la disciplina del contexto que del modelo que se elija. Y la regla de arranque es siempre la misma: el patrón determinista más simple que resuelva el problema; la autonomía se gana después, y solo si los datos de evaluación lo justifican.
 
-Las brechas que la fuente describe como estado del sector encajan con esa exigencia: una de cada cuatro organizaciones ya tiene agentes sobre APIs en producción, pero solo el 25% tiene controles de seguridad específicos para agentes, el 22% protege sus servidores MCP y el 40% no resuelve identidad y credenciales agénticas. Y Gartner proyectó que más del 40% de los proyectos agénticos se cancelarán antes de fines de 2027.
+En el [comunicado de Postman sobre su encuesta](https://www.financialcontent.com/article/bizwire-2026-11-18-one-in-four-organizations-now-run-ai-agents-on-apis-in-production-postmans-2026-state-of-the-api-report-finds), el 25% de las organizaciones ejecuta agentes que usan API en producción, el 25% tiene controles para agentes, el 22% controles para MCP y el 40% no ha abordado credenciales e identidad de agentes. El 22% no es la proporción de servidores MCP protegidos. Un fragmento de búsqueda atribuido a [Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027) recoge una predicción de cancelación de más del 40% de proyectos agénticos antes de fines de 2027; la página estaba bloqueada y no se trata de un hecho consumado. [Auditoría](../auditorias/verificacion-fuentes-2026-11-19.md).
 
 ## Las cinco capas
 
@@ -77,4 +77,4 @@ Esta sección es interpretación propia, no contenido de la fuente. Aplicada al 
 - [Resumen de la fuente](../fuentes/flujos-agentes-produccion-2026.md): guía de arquitectura, ejecución y producción de sistemas agénticos en 2026, recibida como texto pegado.
 - [Plugins para trabajo de conocimiento](plugins-para-trabajo-de-conocimiento.md): otra entrada de la biblioteca que toca el mismo terreno desde los skills y conectores.
 
-Límites: el original es una respuesta generada por Gemini, sin autor humano ni fecha de diálogo, y su URL de origen quedó registrada. Las tablas llegaron aplanadas por el copiado, aunque la versión compartida de Gemini las conserva con tabulaciones y permitió verificar la reconstrucción. Ninguna de las cifras, licencias, precios o benchmarks citados se verificó de forma independiente; varias afirmaciones son de proveedor y la propia fuente lo reconoce.
+Límites: el original es una respuesta generada por Gemini, sin autor humano ni fecha de diálogo. El [registro histórico](../../registro.md) documenta una comparación previa de las tablas; la conversación no permitió acceso al texto el 2026-11-19. La [auditoría](../auditorias/verificacion-fuentes-2026-11-19.md) solo contrasta las cifras delimitadas de Postman y una predicción de Gartner mediante fragmento de búsqueda. Las demás cifras, licencias, precios y benchmarks no se verificaron independientemente; varias afirmaciones son de proveedor.

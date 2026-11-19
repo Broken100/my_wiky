@@ -12,7 +12,7 @@ En las respuestas conservadas, Yarad presenta los plugins como puntos de partida
 
 ## Limitaciones
 
-El texto principal figura como traducción del persa y el recorte incluye respuestas en varios idiomas; una respuesta aparece truncada. Se resume únicamente el contenido visible y comprensible. El repositorio enlazado y sus componentes no se inspeccionaron, por lo que las afirmaciones sobre cantidad, licencia y capacidades son atribuciones de la publicación, no verificaciones independientes. La fuente no detalla la lista completa de plugins ni sus requisitos o resultados reales.
+El texto principal figura como traducción del persa y el recorte incluye respuestas en varios idiomas; una respuesta aparece truncada. La publicación en X devolvió HTTP 403 durante la comprobación del 2026-11-19. El [README de Anthropic](https://github.com/anthropics/knowledge-work-plugins) sí declara 11 plugins para Cowork, compatibles con Claude Code, y la página indica licencia Apache-2.0; incluye skills, conectores, comandos y subagentes. No se comprobó el funcionamiento ni cada componente. La publicación no detalla requisitos ni resultados reales. Véase la [auditoría](../auditorias/verificacion-fuentes-2026-11-19.md).
 
 ## Tema relacionado
 
