@@ -42,3 +42,15 @@ Se eliminaron los 3 archivos de Cafeterías de Otavalo (`fuentes/Biblioteca.md`,
 ## [2026-11-18] query | Cómo configurar Hermes
 
 Se creó la [guía de configuración](wiki/proyectos-2026/como-configurar-hermes.md) a partir del [curso guardado](<fuentes/HERMES 2026 Curso COMPLETO en Español (Agente IA).md>). La transcripción no incluye el comando de instalación ni todos los detalles visuales; no se consultaron fuentes externas.
+
+## [2026-11-19] ingest | Scrapling: framework de raspado web
+
+Procesado [el README de Scrapling](<fuentes/D4VinciScrapling 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here httpsdiscord.ggEMgGbDceNQ and follow here for daily tips and tricks httpsx.comScrapling_dev.md>): creados el [resumen de fuente](wiki/fuentes/scrapling-framework-raspado-web.md) y el [tema de raspado web](wiki/temas/raspado-web-y-extraccion-de-datos.md), con un enlace cruzado añadido al [tema de flujos agénticos](wiki/temas/flujos-de-trabajo-agenticos.md). Los benchmarks y la cobertura de tests los publica el propio proyecto; no se inspeccionaron el código, los tests ni la documentación enlazada.
+
+## [2026-11-19] ingest | HERMES 2026: curso completo en español
+
+Procesada [la transcripción del curso](<fuentes/HERMES 2026 Curso COMPLETO en Español (Agente IA).md>): creados el [resumen de fuente](wiki/fuentes/hermes-2026-curso-completo.md) y el [tema de automatización](wiki/temas/automatizacion-con-hermes.md). La transcripción deforma nombres técnicos de forma sistemática (MCP aparece como «MSP», Claude Code como «Cloud Code», OpenClaw como «Open Cloud»), anuncia ocho proyectos pero desarrolla siete más un bonus, y da valores distintos para la ventana de contexto; quedan anotados como limitaciones, junto con el contenido promocional omitido. No se consultaron fuentes externas.
+
+## [2026-11-19] lint | Revisión de enlaces y nombre de archivo largo
+
+Comprobados los 62 enlaces relativos de la bóveda: los cuatro que no resuelven están en este [registro](registro.md) y apuntan a las páginas de Cafeterías de Otavalo eliminadas el 2026-11-18, de modo que se conservan como historial. Detectado además que el original de Scrapling tiene un nombre de 241 caracteres y una ruta absoluta de 281, por encima del límite de 260 de Windows: Obsidian lo abre, pero algunas herramientas no. No se renombró el original; queda pendiente de decisión de Luis.

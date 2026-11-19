@@ -36,6 +36,8 @@ MCP es el estándar consolidado para agente-a-herramienta, con OAuth 2.1 y PKCE 
 
 En la automatización de navegador, el cambio de 2026 es de píxeles a árbol de accesibilidad (Playwright MCP), pero el techo es el mismo: ningún enfoque superó el 52% de éxito autónomo en una evaluación de 30 flujos complejos, todos fallan ante MFA y el gasto de tokens puede superar tres millones por ejecución. Por eso la aprobación de acciones irreversibles no puede quedar en manos del propio agente.
 
+Para la capa de obtención de datos —la que alimenta a estos flujos— ver [raspado web y extracción de datos](raspado-web-y-extraccion-de-datos.md).
+
 ## Contexto y memoria
 
 El contexto se arma en dos capas: un prefijo estático cacheable (instrucciones en la «altitud Ricitos de Oro», definiciones de herramientas, pocos ejemplos buenos y malos) y un sufijo dinámico por turno (estado de la tarea, recuperación con presupuesto fijo, historial reciente). La pauta operativa es no pasar del 60–80% de la ventana. Para horizontes largos: compactación, notas estructuradas externas y subagentes que devuelven síntesis de 1.000 a 2.000 tokens en vez de material crudo.
