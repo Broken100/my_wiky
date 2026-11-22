@@ -4,6 +4,8 @@ Punto de entrada para navegar la biblioteca. Cada página procesada se añade aq
 
 ## Fuentes
 
+- [Guía Técnica para Crear Agentes de IA en Discord (2026)](wiki/fuentes/agentes-ia-discord-produccion-2026.md): arquitectura, stack, voz (DAVE), seguridad, privacidad/ZDR y economía para agentes de IA en Discord; sin verificación externa.
+
 - [Proyecto de placas NFC y QR: avance](wiki/fuentes/proyecto-placas-nfc-qr-avance-2026-11-19.md): síntesis del alcance, piloto y estado del prototipo local.
 
 
@@ -16,6 +18,8 @@ Punto de entrada para navegar la biblioteca. Cada página procesada se añade aq
 - [HERMES 2026: Curso completo en español](wiki/fuentes/hermes-2026-curso-completo.md): resumen de la transcripción; título del video comprobado, contenido completo no verificado.
 
 ## Temas
+
+- [Agentes de IA en Discord](wiki/temas/agentes-ia-en-discord.md): decisiones de arquitectura, transporte, herramientas, voz, seguridad y costos en Discord conectadas con flujos agénticos.
 
 - [Proyecto de placas NFC y QR para reseñas](wiki/temas/proyecto-placas-nfc-qr-resenas.md): propósito, piloto, estado y decisiones pendientes.
 

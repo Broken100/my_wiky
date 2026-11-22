@@ -85,3 +85,7 @@ Se guardó la [síntesis de la sesión](<fuentes/adjuntos/proyecto-placas-nfc-qr
 ## [2026-11-19] lint | Auditoría comparativa de entornos (OpenBot vs. Hermes)
 
 Publicada la [auditoría comparativa de entornos](wiki/auditorias/comparativa-entornos-openbot-vs-hermes-2026-11-19.md) y actualizada su entrada en [indice.md](indice.md). Se revisaron los 13 cambios locales previos del entorno Hermes (verificación puntual de fuentes y avance del proyecto NFC/QR): 156 enlaces internos comprobados en 27 archivos `.md` con 0 enlaces rotos nuevos (se mantienen los 4 enlaces históricos de Cafeterías de Otavalo en este registro) y originales previos en `fuentes/` sin cambios.
+
+## [2026-11-22] ingest | Guía técnica para crear agentes de IA en Discord (2026)
+
+Se guardó el original intacto en [Guía Técnica para Crear Agentes de IA en Discord (Arquitectura, Herramientas y Producción 2026)](<fuentes/Guía Técnica para Crear Agentes de IA en Discord (Arquitectura, Herramientas y Producción 2026).md>), se crearon el resumen de fuente [wiki/fuentes/agentes-ia-discord-produccion-2026.md](wiki/fuentes/agentes-ia-discord-produccion-2026.md) y el tema [wiki/temas/agentes-ia-en-discord.md](wiki/temas/agentes-ia-en-discord.md), y se actualizaron [wiki/temas/flujos-de-trabajo-agenticos.md](wiki/temas/flujos-de-trabajo-agenticos.md) con referencia cruzada e [indice.md](indice.md). El texto original se recibió sin autor, URL ni fecha de publicación declarados; las cifras, versiones, tarifas y políticas de 2026 provienen de la fuente sin verificación externa.

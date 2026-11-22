@@ -76,5 +76,6 @@ Esta sección es interpretación propia, no contenido de la fuente. Aplicada al 
 
 - [Resumen de la fuente](../fuentes/flujos-agentes-produccion-2026.md): guía de arquitectura, ejecución y producción de sistemas agénticos en 2026, recibida como texto pegado.
 - [Plugins para trabajo de conocimiento](plugins-para-trabajo-de-conocimiento.md): otra entrada de la biblioteca que toca el mismo terreno desde los skills y conectores.
+- [Agentes de IA en Discord](agentes-ia-en-discord.md): aplicación de arquitectura agéntica, MCP, controles deterministas, memoria y enrutamiento de modelos a las restricciones de Discord (fuente independiente; modela un reparto 80/20 frente al 70/20/10 de esta guía).
 
 Límites: el original es una respuesta generada por Gemini, sin autor humano ni fecha de diálogo. El [registro histórico](../../registro.md) documenta una comparación previa de las tablas; la conversación no permitió acceso al texto el 2026-11-19. La [auditoría](../auditorias/verificacion-fuentes-2026-11-19.md) solo contrasta las cifras delimitadas de Postman y una predicción de Gartner mediante fragmento de búsqueda. Las demás cifras, licencias, precios y benchmarks no se verificaron independientemente; varias afirmaciones son de proveedor.
